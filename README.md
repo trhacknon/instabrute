@@ -1,4 +1,4 @@
-# Instax
+# instabrute
 ## Author: github.com/trhacknon 
 ## IG: instagram.com/trhacknon 
 ### Don't copy this code without give me the credits, 
