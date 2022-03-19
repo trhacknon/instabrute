@@ -34,3 +34,4 @@ bash install.sh
 ### How it works?
 Tool uses TOR and rotating the ip address to avoid blocking. 
 
+Thx to dhasirar for source code, mod rewrite by trhacknon
