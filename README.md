@@ -1,6 +1,6 @@
 # instabrute
 ## Author: github.com/trhacknon 
-## IG: instagram.com/trhacknon 
+## IG: instagram.com/brig1d3sint3rn1ti0n1ll3s 
 ### Don't copy this code without give me the credits, 
 instabrute is an tool to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of +400 passwords/min using 20 threads.
 
