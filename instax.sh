@@ -65,7 +65,7 @@ printf "\e[1;91mInvalid Username! Try again\e[0m\n"
 sleep 1
 start
 else
-default_wl_pass="passwords.lst"
+default_wl_pass="trhackpass.lst"
 read -p $'\e[1;92mPassword List (Enter to default list): \e[0m' wl_pass
 wl_pass="${wl_pass:-${default_wl_pass}}"
 default_threads="10"
